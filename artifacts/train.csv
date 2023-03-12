@@ -2,7 +2,7 @@ gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,
 female,group D,master's degree,standard,none,62,70,75
 female,group C,bachelor's degree,free/reduced,completed,66,83,83
 female,group D,some college,free/reduced,none,79,89,86
-male,group C,master's degree,free/reduced,none,61,67,66
+male,group C,master's degree,free/reduced,none,61,67,65
 male,group E,high school,standard,none,73,64,57
 male,group B,high school,free/reduced,none,30,24,15
 female,group C,bachelor's degree,standard,completed,96,100,100
